@@ -1,0 +1,28 @@
+{
+  "name": "erc20-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yumeow0122/ERC20-Token.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yumeow0122/ERC20-Token/issues"
+  },
+  "homepage": "https://github.com/yumeow0122/ERC20-Token#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^1.0.1",
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.1.0",
+    "hardhat": "^2.10.0",
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
+  }
+}
